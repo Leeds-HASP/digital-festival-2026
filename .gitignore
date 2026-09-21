@@ -16,6 +16,9 @@ data/*
 !data/hasp_ppfi_v2.1.csv
 !data/imd_2025.csv
 !data/which_insulation_index.csv
+!data/zoopla_rent.csv
+!data/lsoa_lookup.csv
+!data/region_lookup.csv
 
 # Not loaded by the notebook (keep the clone small):
 #   data/zoopla_rent.csv        21MB — only used by the exploratory cells at the end
