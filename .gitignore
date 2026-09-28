@@ -33,6 +33,7 @@ area_zoopla.geojson
 west_yorkshire_need.csv
 west_yorkshire_need.geojson
 *.gpkg.tmp
+*.pptx
 
 # --- local dev / provenance scripts (not needed to run the workshop) ---
 # data_checks.py converts the ONS GeoJSON -> the .gpkg we ship.
